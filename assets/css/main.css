@@ -2517,6 +2517,11 @@ input, select, textarea {
 		overflow: hidden;
 	}
 
+		.pic {
+		    margin:+5% 0 0;
+		    border: 3px solid black;
+		    float:right;
+		}		
 		.image:before {
 			content: '';
 			display: block;
